@@ -190,6 +190,17 @@ h4{
 
     }
 
+    .mulheresciencia{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 40px;
+    }
+
+    #mulheres{
+        margin-bottom: 40px;
+
+    }
     h2{
         font-size: 40px;
     }
