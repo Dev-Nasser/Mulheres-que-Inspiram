@@ -42,8 +42,12 @@ h2{
 #mulheres{
     width: 200px;
     height: 200px;
-    background-color: wheat;
+    border: solid;
+    border-color: #078b21 ;
+    border-width: 10px;
 }
+
+
 main{
     display: flex;
     align-items: center;
